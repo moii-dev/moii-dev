@@ -2,7 +2,7 @@
 
 <sub>ANDROID · SOFTWARE · PRODUCT</sub>
 
-# Eugene
+# Мои навыки
 
 
 </div>
