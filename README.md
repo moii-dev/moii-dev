@@ -4,7 +4,6 @@
 
 # Eugene
 
-<sub>moii-dev</sub>
 
 </div>
 
