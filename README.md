@@ -35,22 +35,8 @@ Kotlin · Android · Jetpack Compose · product-minded engineering
 
 ## GitHub statistics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=moii-dev&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark_dimmed&rank_icon=github" alt="GitHub statistics for moii-dev" />
-<img height="165" src="https://streak-stats.demolab.com?user=moii-dev&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for moii-dev" />
-
-<br />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moii-dev&layout=compact&hide_border=true&theme=github_dark_dimmed" alt="Most used languages by moii-dev" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-## Recent activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moii-dev&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution activity graph for moii-dev" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moii-dev&theme=github_dark" alt="GitHub statistics for moii-dev" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moii-dev&theme=github_dark" alt="Most used languages by moii-dev" />
 
 </div>
 
