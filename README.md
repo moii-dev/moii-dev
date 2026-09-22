@@ -4,11 +4,10 @@
 
 </div>
 
-<br />
 
 <div align="center">
 
-## Android-first toolkit
+## Навыки
 
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cpp,python,js,ts,react,nodejs,postgres,git,docker&theme=dark" alt="Kotlin, Android Studio, C++, Python, JavaScript, TypeScript, React, Node.js, PostgreSQL, Git and Docker" />
 
