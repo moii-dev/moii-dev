@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="48" viewBox="0 0 164 48" fill="none" role="img" aria-label="Smiling blue snake">
+  <path d="M8 33C31 8 57 39 84 24c16-9 25-12 43-5" stroke="#38BDF8" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="143" cy="20" r="19" fill="#38BDF8"/>
+  <circle cx="136" cy="15" r="2.5" fill="#0F172A"/>
+  <circle cx="150" cy="15" r="2.5" fill="#0F172A"/>
+  <path d="M134 24c5 6 13 6 18 0" stroke="#0F172A" stroke-width="2.8" stroke-linecap="round"/>
+</svg>
