@@ -1,6 +1,10 @@
 <div align="center">
 
-# Hi, I'm Eugene
+<sub>ANDROID · SOFTWARE · PRODUCT</sub>
+
+# Eugene
+
+<sub>moii-dev</sub>
 
 </div>
 
@@ -15,7 +19,7 @@
 
 <br />
 
-Kotlin · Android · Jetpack Compose · product-minded engineering
+Kotlin · Android · Jetpack Compose
 
 </div>
 
@@ -23,7 +27,7 @@ Kotlin · Android · Jetpack Compose · product-minded engineering
 
 <div align="center">
 
-## GitHub statistics
+## A small record of work
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moii-dev&theme=github_dark" alt="GitHub statistics for moii-dev" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moii-dev&theme=github_dark" alt="Most used languages by moii-dev" />
@@ -34,7 +38,7 @@ Kotlin · Android · Jetpack Compose · product-minded engineering
 
 <div align="center">
 
-## Contribution snake
+<sub>CONTRIBUTION FLOW</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moii-dev/moii-dev/output/github-contribution-grid-snake-dark.svg" />
