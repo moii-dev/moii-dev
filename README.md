@@ -37,7 +37,6 @@ Kotlin · Android · Jetpack Compose
 
 <div align="center">
 
-<sub>CONTRIBUTION FLOW</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moii-dev/moii-dev/output/github-contribution-grid-snake-dark.svg" />
