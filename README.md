@@ -2,13 +2,6 @@
 
 # Hi, I'm Eugene
 
-### Android & Software Developer
-
-Building Android apps, web products, developer tools<br />
-and experimental interfaces.
-
-<a href="https://github.com/moii-dev">@moii-dev</a>
-
 </div>
 
 <br />
@@ -39,17 +32,6 @@ Kotlin · Android · Jetpack Compose · product-minded engineering
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moii-dev&theme=github_dark" alt="Most used languages by moii-dev" />
 
 </div>
-
-<br />
-
-## Featured projects
-
-| Project | What it is |
-| :-- | :-- |
-| [**FreeChat**](https://github.com/moii-dev/FreeChat) | Android AI chat with Telegram/VK auth, image and file tools, and a Node.js/PostgreSQL backend. |
-| [**QR Scanner**](https://github.com/moii-dev/QR-Scanner) | Android QR and barcode scanner/generator built with Jetpack Compose, CameraX, ML Kit, and Room. |
-| [**Figmint**](https://github.com/moii-dev/Figmint) | Local-first vector editor built with React, TypeScript, Vite, and Tailwind CSS. |
-| [**OnePass**](https://github.com/moii-dev/OnePass) | Local Chromium TOTP/HOTP authenticator with QR import, encryption, PIN protection, and backup. |
 
 <br />
 
