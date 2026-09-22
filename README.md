@@ -26,7 +26,7 @@ Kotlin · Android · Jetpack Compose
 
 <div align="center">
 
-## A small record of work
+##  Статистика
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moii-dev&theme=github_dark" alt="GitHub statistics for moii-dev" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moii-dev&theme=github_dark" alt="Most used languages by moii-dev" />
@@ -37,8 +37,7 @@ Kotlin · Android · Jetpack Compose
 
 <div align="center">
 
-
-<br />
+## Красивая змейка:>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moii-dev/moii-dev/output/github-contribution-grid-snake-dark.svg" />
