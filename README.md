@@ -10,7 +10,7 @@
 
 ## Android-first toolkit
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,cpp,python,js,ts,react,nodejs,postgres,git,docker&theme=dark" alt="Kotlin, Java, Android Studio, C++, Python, JavaScript, TypeScript, React, Node.js, PostgreSQL, Git and Docker" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cpp,python,js,ts,react,nodejs,postgres,git,docker&theme=dark" alt="Kotlin, Android Studio, C++, Python, JavaScript, TypeScript, React, Node.js, PostgreSQL, Git and Docker" />
 
 <br /><br />
 
