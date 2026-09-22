@@ -40,7 +40,7 @@ Kotlin · Android · Jetpack Compose
 
 <br />
 
-<img src="./assets/smiling-snake.svg" width="164" alt="Smiling blue snake" />
+<img src="https://raw.githubusercontent.com/moii-dev/moii-dev/main/assets/smiling-snake.svg" width="164" alt="Smiling blue snake" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moii-dev/moii-dev/output/github-contribution-grid-snake-dark.svg" />
